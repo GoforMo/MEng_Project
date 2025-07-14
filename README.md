@@ -1,3 +1,3 @@
 # Introduction 
 
-This repository contains my Master of Engineering (MEng) report and short demonstration videos of [hardware](HW_switching\HW_switching_edited.mp4 "hardware switching") and [software](SW_switching\SW_switching_edited.mp4 "software switching") using commercial products, FPGA SoC and MIPI interfaces. 
+This repository contains my Master of Engineering (MEng) report and short demonstration videos of [hardware](https://drive.google.com/file/d/1SZG7C8rDc4CRZ0cLtTM0ygPSy1A5WD_S/view?usp=drive_link "hardware switching") and [software](https://drive.google.com/file/d/13oJs2m0rf22RJ0eoo0d-ZorBhVTU1mHQ/view?usp=drive_link "software switching") using commercial products, FPGA SoC and MIPI interfaces. 
